@@ -8,6 +8,7 @@
 *.obj
 *.sln
 *.vcxproj
+*.vcxproj.filters
 
 # Precompiled Headers
 *.gch
